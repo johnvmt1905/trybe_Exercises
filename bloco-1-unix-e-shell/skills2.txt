@@ -1,0 +1,8 @@
+unix
+internet
+bash
+python
+javascript
+zsh
+react
+html
