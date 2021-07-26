@@ -1,0 +1,19 @@
+div:nth-child(1):hover {
+    border: 2px red;
+}
+
+div:nth-child(2):hover {
+    border: 2px orange;
+}
+
+div:nth-child(3):hover {
+    border: 2px green;
+}
+
+div:nth-child(4):hover {
+   border: 2px black; 
+}
+
+div:nth-child(5):hover {
+    border: 2px grey;
+}
