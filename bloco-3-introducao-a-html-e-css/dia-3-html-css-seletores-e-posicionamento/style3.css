@@ -1,0 +1,11 @@
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+li:active {
+    font-family: sans-serif;
+}
